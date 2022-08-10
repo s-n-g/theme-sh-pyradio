@@ -1,5 +1,5 @@
 # theme-sh-pyradio
-This repo provides the means to create, preview install and uninstall 4 sets of theme files for internet radio player [pyradio](https://github.com/coderholic/pyradio) extracted from [theme.sh](https://github.com/theme-sh-project/theme-sh) theme script.
+This repo provides the means to create, preview, install and uninstall 4 sets of theme files for internet radio player [pyradio](https://github.com/coderholic/pyradio) extracted from [theme.sh](https://github.com/theme-sh-project/theme-sh) theme script.
 
 **Note:** If one has the [theme.sh]() script installed, he does not need to use this repo; he can just use the script to set a terminal theme and then set **pyradio** to "*watch*" that theme.
 
@@ -7,7 +7,7 @@ This repo provides the means to create, preview install and uninstall 4 sets of 
 
 To create the themes, just execute the command:
 
-    python create-themes.py
+    python create_themes.py
 
 A direcrory named **themes** will be created, after the command terminates.
 
